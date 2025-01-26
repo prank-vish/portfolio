@@ -39,7 +39,7 @@ const EmailForm = () => {
   };
 
   return (
-    <div className="max-w-md mx-auto p-6 bg-white opacity-50 shadow-lg rounded-lg mb-5">
+    <div className="max-w-md mx-auto p-6 bg-white opacity-80 shadow-lg rounded-lg mb-5">
       <h2 className="text-xl font-semibold mb-4">Let Me Know</h2>
       {status && <p className="mb-4 text-center text-green-600">{status}</p>}
       <form onSubmit={handleSubmit} className="space-y-4">

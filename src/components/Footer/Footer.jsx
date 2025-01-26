@@ -14,7 +14,7 @@ const Footer = () => {
             prankvish@gmail.com
         </li>
         <li className='flex gap-1 items-center'><CiLinkedin/> 
-            linkedin.com/Prankit Vishwakarma
+            linkedin.com/in/prankit-vishwakarma
         </li>
         <li className='flex gap-1 items-center'><FaGithub/> 
             github.com/prank-vish

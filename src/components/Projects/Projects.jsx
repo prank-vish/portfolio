@@ -11,10 +11,11 @@ export default function Projects() {
           main="This website helps you to connect with your roots by showing and telling you about rich cultural heritage"
           linkk="https://magnificent-baklava-487e9c.netlify.app/" />
 
-        {/* <ProjectCard
-          title="Tales of Bharat"
-          main="this website connectsskd owiff owfi wlirj ofi mfprnsdf fkljffwoeiw oweirp" />
         <ProjectCard
+          title="Tic Tac Toe"
+          main="This is a fun game. So give it a try"
+          linkk="https://prank-vish.github.io/tic-tac-toe/" />
+        {/* <ProjectCard
           title="Tales of Bharat"
           main="this website connectsskd owiff owfi wlirj ofi mfprnsdf fkljffwoeiw oweirp" /> */}
       </div>
