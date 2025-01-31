@@ -1,5 +1,5 @@
 import React from 'react'
-import AboutImg from "../../assets/Prankit2.jpg"
+
 // import {IoArrowFroward} from "react-icons/io5"
 import {IoArrowForward} from "react-icons/io5"
 export default function About() {
@@ -15,9 +15,8 @@ export default function About() {
                     <IoArrowForward size={30} className="mt-1" />
                     <span className='w-96'>
                         <h1 className='text-xl md:text-2xl font-semibold leading-normal'>Front Developer</h1>
-                        <p className='text-sm md:text-md leading-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sint ne
-                            sciunt, quos vero repellendus inventore architecto id rerum vel necessitatibus,
-                             atque dolore dignissimos excepturi obcaecati mollitia, quasi quae porro labore?
+                        <p className='text-sm md:text-md leading-tight'>Passionate and detail-oriented Frontend Developer; building dynamic, responsive, and user-friendly web applications.
+                             Proficient in modern JavaScript frameworks, libraries, and tools.
                         </p>
                     </span>
                 </div>
@@ -25,18 +24,18 @@ export default function About() {
                     <IoArrowForward size={30} className="mt-1" />
                     <span className='w-96'>
                         <h1 className='text-xl md:text-2xl font-semibold leading-normal'>Backend Developer</h1>
-                        <p className='text-sm md:text-md leading-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sint ne
-                            sciunt, quos vero repellendus inventore architecto id rerum vel necessitatibus,
-                             atque dolore dignissimos excepturi obcaecati mollitia, quasi quae porro labore?
+                        <p className='text-sm md:text-md leading-tight'>Proficient in database management, API creation, and performane optimization.
+                            Committed to make secure, high-quality, and maintainable code.
+                        
                         </p>
                     </span>
                 </div>
                 <div className='flex gap-3 py-4'>
                     <IoArrowForward size={30} className="mt-1" />
                     <span className='w-96'>
-                        <h1 className='text-xl md:text-2xl font-semibold leading-normal'>Data Developer</h1>
-                        <p className='text-sm md:text-md leading-tight'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit sint ne
-                            sciunt, quos vero repellendus inventore architecto id rerum?
+                        <h1 className='text-xl md:text-2xl font-semibold leading-normal'>DSA Enthusiast</h1>
+                        <p className='text-sm md:text-md leading-tight'>An enthusiast of Data Structures and Algorithms,with strong foundation
+                            in problem-solving.
                         </p>
                     </span>
                 </div>

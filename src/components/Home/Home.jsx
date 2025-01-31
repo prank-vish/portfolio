@@ -1,6 +1,4 @@
 import React from 'react'
-import imag from "../../assets/Prankit1.jpg"
-import imag2 from "../../assets/Prankit4.png"
 import imagg from "../../assets/vecteezy_software-engineer-png-graphic-clipart-design_20962925.png"
 
 export default function Home() {
@@ -10,9 +8,8 @@ export default function Home() {
             <h1 className='text-3xl md:text-6xl font-bold flex leading-normal tracking-tighter'>
                 Hello! I am Prankit Vishwakarma
             </h1>
-            <p className='text-sm md:text-2xl tracking-tight'>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque magni dolorem commodi
-                    dflk owie osiefj dofiw
+            <p className='text-sm md:text-xl tracking-tight mt-4'>
+            I am software developer with a passion for problem-solving and a keen interest in Data Structures and Algorithms. 
             </p>
            
         </div>
