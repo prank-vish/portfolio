@@ -1,16 +1,16 @@
 import React from 'react'
-
+import img1 from "../../assets/working.png"
 // import {IoArrowFroward} from "react-icons/io5"
 import {IoArrowForward} from "react-icons/io5"
 export default function About() {
   return (
-    <div id='About' className='text-white md:flex overflow-hidden items-center md:flex-wrap
-    md:justify-center bg:black shadow-xl mx-0 md:mx-20 bg-opacity-30 rounded-lg p-12'>
-      <div>
+    <div id='About' className='text-white  overflow-hidden 
+     bg:black shadow-xl bg-opacity-30 rounded-lg p-10 md:p-24'>
         <h2 className='text-2xl md:text-4xl font-bold'>About</h2>
-        <div className='md:flex flex-wrap flex-col md:flex-row items-center'>
-            {/* <img className='md:h-80' src={AboutImg} alt="About Img" /> */}
-            <ul>
+      <div>
+        <div className='md:flex flex-col md:flex-row items-center justify-center'>
+            <img className='md:h-80 p-' src={img1} alt="About Img" />
+            <ul className=''>
                 <div className='flex gap-3 py-4'>
                     <IoArrowForward size={30} className="mt-1" />
                     <span className='w-96'>

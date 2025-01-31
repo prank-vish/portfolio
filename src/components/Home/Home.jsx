@@ -3,7 +3,7 @@ import imagg from "../../assets/vecteezy_software-engineer-png-graphic-clipart-d
 
 export default function Home() {
   return (
-    <div className='text-white flex w-full justify-between items-start p-10 md:p-20 '>
+    <div className='text-white flex w-full justify-between items-center p-10 md:p-20 '>
         <div className='md:w-2/4 w-full md:pt-10'>
             <h1 className='text-3xl md:text-6xl font-bold flex leading-normal tracking-tighter'>
                 Hello! I am Prankit Vishwakarma
@@ -13,7 +13,7 @@ export default function Home() {
             </p>
            
         </div>
-        <div className='flex flex-row justify-end'><img className='lg:w-2/5 ' src ={imagg} alt="home image" /></div>
+        <div className='flex flex-row justify-end '><img className='lg:w-1/2 ' src ={imagg} alt="home image" /></div>
         
     </div>
   )
