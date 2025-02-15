@@ -34,7 +34,7 @@ export default function Navbar() {
                         Contact
                     </li>
                 </a>
-                <a href="https://github.com/prank-vish/portfolio/my_resume.pdf" download="my_resume.pdf"><li className='text-md transition-all duration-300 p-1 md:p-0'>
+                <a href="https://prank-vish.github.io/portfolio/my_resume.pdf" download="my_resume.pdf"><li className='text-md transition-all duration-300 p-1 md:p-0'>
                     Resume
                 </li></a>
 
