@@ -13,8 +13,8 @@ export default function Projects() {
 
         <ProjectCard
           title="Tic Tac Toe"
-          main="This is a fun game. So give it a try"
-          linkk="https://prank-vish.github.io/tic-tac-toe/" />
+          main="This is a fun game.You can play it with your friend or AI. Bet you won't be able to beat AI. So give it a try"
+          linkk="https://prank-vish.github.io/PRODIGY_WB_03/" />
         {/* <ProjectCard
           title="Tales of Bharat"
           main="this website connectsskd owiff owfi wlirj ofi mfprnsdf fkljffwoeiw oweirp" /> */}

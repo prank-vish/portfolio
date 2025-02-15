@@ -1,5 +1,6 @@
 import React from 'react'
 import img1 from "../../assets/working.png"
+
 // import {IoArrowFroward} from "react-icons/io5"
 import {IoArrowForward} from "react-icons/io5"
 export default function About() {
@@ -40,6 +41,7 @@ export default function About() {
                     </span>
                 </div>
             </ul>
+            
         </div>
         
       </div>
